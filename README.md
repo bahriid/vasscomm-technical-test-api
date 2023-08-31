@@ -15,6 +15,10 @@ goals items :
 - Mengimplementasikan 2 role user (role admin dan role user)
 - Implementasi seeder dan migration
 - Implementasi validasi parameter
+- 
+## API Docs
+
+The API documentation is here **Postman Collection File** `(postman_collection.json)`, You can also import into your Postman App.
 
 ## How to install
 
